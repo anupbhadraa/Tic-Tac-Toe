@@ -40,4 +40,6 @@ body {
     font-size: 1.5rem;
     background-color: #191919;
     color: #fff;
+    border-radius: 1rem;
+    border: none;
 }
